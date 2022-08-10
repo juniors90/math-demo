@@ -1,0 +1,25 @@
+{
+  "name": "@juniors90/math-demo",
+  "version": "1.0.0",
+  "description": "A collection of functions in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm publish --access public"
+  },
+  "keywords": ["Math", "IoT", "Algebra"],
+  "author": "Ferreira, Juan David",
+  "license": "MIT",
+  "homepage": "https://github.com/juniors90/math-demo",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/juniors90/math-demo"
+	},
+	"bugs": {
+		"url": "https://github.com/juniors90/math-demo/issues"
+	},
+  "categories": [
+    "Programming Languages",
+    "Education"
+  ]
+}
